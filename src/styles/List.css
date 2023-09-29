@@ -1,0 +1,50 @@
+@import '../App.css';
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 18rem;
+
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+}
+
+img#trash-icon {
+ 
+    height: 1rem;
+    width: auto; 
+
+}
+
+img#pen-icon{
+    height: 1rem;
+    width: auto;
+
+}
+
+#delete-button {
+    background-color: white;
+    padding: 0.5rem; 
+}
+
+#modify-button {
+    background-color: white;
+    padding: 0.5rem; 
+}
+
+input.no-outline {
+    border-color: transparent;
+}
+
+input:focus{
+  border-color: transparent;
+  border-bottom: 2px solid #FF33AE;
+}
