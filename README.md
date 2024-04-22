@@ -24,10 +24,7 @@ With a simple click we can read, add, amend and delete them.
 - Axios
 - Json-server  
      
-## :page_facing_up:Documentation
-​
-[Documentation](https://femcoders.notion.site/To-do-List-App-4c5091c98df847f99d5801e6373586e1)
-​
+
 ​
 ## :sparkle:Demo
 ​
